@@ -1,4 +1,4 @@
-module github.com/goodie1972/go-cli
+﻿module github.com/goodie1972/go-cli
 
 go 1.22
 
